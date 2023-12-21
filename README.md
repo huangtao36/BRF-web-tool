@@ -6,3 +6,4 @@ To obtain the source data, access is required to [MIMIC-III](https://mimic.mit.e
 
 Subsequently, you can utilize the code in this repository to build the model, analyze the data, and generate all the charts mentioned in the paper.
 
+You can execute app_streamlit.py to set up an application service, enabling direct utilization of pre-trained tools (model parameters will be made public after the paper's publication).
