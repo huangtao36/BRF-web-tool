@@ -11,7 +11,7 @@ Subsequently, you can utilize the code in this repository to build the model, an
 
 You can execute app_streamlit.py to set up an application service, enabling direct utilization of pre-trained tools (model parameters will be made public after the paper's publication).
 
-Alternatively, you can try out the tool we've developed directly at [https://5f1915j123.wicp.vip/](https://5f1915j123.wicp.vip/). Feel free to provide any suggestions. (If you encounter any accessibility issues, please let me know.)
+Alternatively, you can try out the tool we've developed directly at [http://115.29.201.138:1234/](http://115.29.201.138:1234/). Feel free to provide any suggestions. (If you encounter any accessibility issues, please let me know.)
 
 
 
