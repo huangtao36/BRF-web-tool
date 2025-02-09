@@ -1,7 +1,7 @@
 # BRF-web-tool
 
-![image](https://github.com/huangtao36/BRF-web-tool/data/215942_359.png)
-![image](https://github.com/huangtao36/BRF-web-tool/data/220052_265.png)
+![image](https://github.com/huangtao36/BRF-web-tool/blob/main/data/215942_359.png)
+![image](https://github.com/huangtao36/BRF-web-tool/blob/main/data/220052_265.png)
 
 The image shows the results and explanations of a machine learning model used to predict in-hospital mortality rates. The model predicts an in-hospital mortality probability of 10.5%, which is an increase of 89.5% compared to the baseline probability.
 
